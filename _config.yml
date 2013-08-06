@@ -7,8 +7,9 @@ permalink: /about/:title
 permalink: /contact/:title
 auto: true
 
-name: mayureshco
-url: http://mayureshco1/github.io
+
+name: mkcomco
+url: http://mkcomco/github.io
 description: Jekyll blog is ninja
 
 
