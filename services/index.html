@@ -4,6 +4,17 @@ title: M.K. Computer Services
 ---
 
 <section class="content">
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.thumbnail img').animate({width: 100}, 0);
+        $('.thumbnail').mouseover(function(){
+          gridimage = $(this).find('img');
+          gridimage.stop().animate({width: 360}, 280);
+        }).mouseout(function(){
+          gridimage.stop().animate({width: 100}, 150);
+      });
+    }); 
+  </script>
 <div class="container-narrow">
 <div id="service-picture">
 	<div class="row-fluid">
