@@ -1,3 +1,14 @@
-name: Your New Jekyll Site
+name: M.K. Computer Services
 markdown: redcarpet
 pygments: true
+permalink: /product/:title
+permalink: /services/:title
+permalink: /about/:title
+permalink: /contact/:title
+auto: true
+
+name: mayureshco
+url: http://mayureshco/github.io
+description: Jekyll blog is ninja
+
+
