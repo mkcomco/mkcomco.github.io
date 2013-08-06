@@ -1,0 +1,136 @@
+
+html {
+	height: 100%;
+}
+
+body {
+	background: -webkit-linear-gradient(hsl(218,51%,32%), transparent 75%);
+	background: -moz-linear-gradient(hsl(195,51%,44%), transparent 75%);
+	background: -ms-linear-gradient(hsl(195,51%,44%),transparent 75%);
+	background: -o-linear-gradient(hsl(195,51%,44%), transparent 75%);
+	background-size: cover;
+}
+.container {
+
+  width: 1000px;  
+  padding-top: 20px;
+  margin: 0 auto;
+}
+
+.container-narrow {
+        margin: 0 auto;
+        max-width: 900px;
+      }
+
+h1{
+	font-size: 2em;
+}
+#computer-pictures {
+	background: #FFFFFF;
+	border: 1px solid #24C4DA;
+	position: relative;
+	animation:bounce 5s infinite;
+	-webkit-animation:bounce 5s infinite; /* Safari and Chorme*/
+}
+@-webkit-keyframes bounce {
+0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);}
+40% {-webkit-transform: translateY(-30px);}
+60% {-webkit-transform: translateY(-15px);}
+}
+
+@-moz-keyframes bounce {
+0%, 20%, 50%, 80%, 100% {-moz-transform: translateY(0);}
+40% {-moz-transform: translateY(-30px);}
+60% {-moz-transform: translateY(-15px);}
+}
+
+@-o-keyframes bounce {
+0%, 20%, 50%, 80%, 100% {-o-transform: translateY(0);}
+40% {-o-transform: translateY(-30px);}
+60% {-o-transform: translateY(-15px);}
+}
+@keyframes bounce {
+0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+40% {transform: translateY(-30px);}
+60% {transform: translateY(-15px);}
+}
+
+.bounce {
+-webkit-animation-name: bounce;
+-moz-animation-name: bounce;
+-o-animation-name: bounce;
+animation-name: bounce;
+}
+
+
+
+
+#intro {
+	padding: 1.250em;
+	background: skyblue;
+	border: 1px solid #24C4DA;
+	font-size: 1.500em;
+	text-align: left;
+}
+
+h3 {
+	color: orange;
+}
+
+
+h2 {
+	color: #E84E16;
+}
+
+.phone {
+	font-size: 1em;
+}
+
+address {
+	font-size: 1em;
+}
+
+
+.footer{
+	font-size: 0.750em;
+	text-align: right;
+}
+
+#contact{
+	font-size: 1em;
+	color: #420600;
+}
+
+.product-details {
+	font-size: 1.500em;
+	text-align: left;
+	background: #FFFFFF;
+	padding: 25px;
+	border: 2px solid #24C4DA;
+}
+
+#parts {
+	background-color: #FFFFFF;
+	font-size: 1.250em;	
+	text-align: left;
+	padding: 25px;
+	border: 2px solid #24C4DA;
+	
+}
+
+
+
+#product-logo {
+	background-color: #FFFFFF;
+	border: 2px solid #24C4DA;
+	text-align: center;
+}
+
+h4 {
+	color: #24C4DA;
+}
+
+#service-picture {
+	background-color: #FFFFFF;
+	border: 2px solid #24C4DA;
+}
