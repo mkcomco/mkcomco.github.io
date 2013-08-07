@@ -4,11 +4,8 @@ html {
 }
 
 body {
-	background: -webkit-linear-gradient(hsl(218,51%,32%), transparent 75%);
-	background: -moz-linear-gradient(hsl(195,51%,44%), transparent 75%);
-	background: -ms-linear-gradient(hsl(195,51%,44%),transparent 75%);
-	background: -o-linear-gradient(hsl(195,51%,44%), transparent 75%);
-	background-size: cover;
+	background: url('/images/light_blue.jpg') repeat;
+	
 }
 .container {
 
@@ -66,19 +63,19 @@ animation-name: bounce;
 
 
 #intro {
-	padding: 1.250em;
-	background: skyblue;
+	padding: 1.500em;
+	background: #FFFFFF;
 	border: 1px solid #24C4DA;
 	font-size: 1.500em;
 	text-align: left;
 }
-
-h3 {
-	color: orange;
+h3  {
+	color: #E84E16;
 }
 
 
-h2 {
+
+h2  {
 	color: #E84E16;
 }
 
@@ -86,8 +83,10 @@ h2 {
 	font-size: 1em;
 }
 
-address {
-	font-size: 1em;
+
+
+#quality-service {
+	text-align: center;
 }
 
 
@@ -99,13 +98,15 @@ address {
 #contact{
 	font-size: 1em;
 	color: #420600;
+	text-align: center;
 }
 
 .product-details {
+	padding: 1.500em;
 	font-size: 1.500em;
 	text-align: left;
 	background: #FFFFFF;
-	padding: 25px;
+	
 	border: 2px solid #24C4DA;
 }
 
@@ -113,7 +114,7 @@ address {
 	background-color: #FFFFFF;
 	font-size: 1.250em;	
 	text-align: left;
-	padding: 25px;
+	padding: 1.500em;
 	border: 2px solid #24C4DA;
 	
 }
