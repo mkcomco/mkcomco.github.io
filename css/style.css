@@ -63,12 +63,19 @@ animation-name: bounce;
 
 
 #intro {
-	padding: 1.500em;
+	padding: 2em;
 	background: #FFFFFF;
 	border: 1px solid #24C4DA;
-	font-size: 1.500em;
+	
 	text-align: left;
 }
+
+#maintenance {
+	font-size: 25px;
+
+
+}
+
 h3  {
 	color: #E84E16;
 }
@@ -102,8 +109,8 @@ h2  {
 }
 
 .product-details {
-	padding: 1.500em;
-	font-size: 1.500em;
+	padding: 2em;
+	font-size: 1em;
 	text-align: left;
 	background: #FFFFFF;
 	
@@ -112,7 +119,7 @@ h2  {
 
 #parts {
 	background-color: #FFFFFF;
-	font-size: 1.250em;	
+	
 	text-align: left;
 	padding: 1.500em;
 	border: 2px solid #24C4DA;
@@ -133,5 +140,11 @@ h4 {
 
 #service-picture {
 	background-color: #FFFFFF;
+	border: 2px solid #24C4DA;
+}
+
+#contact-form {
+	background: #FFFFFF;
+	text-align: center;
 	border: 2px solid #24C4DA;
 }
