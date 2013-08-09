@@ -103,9 +103,12 @@ h2  {
 }
 
 #contact{
+	padding: 30px;
 	font-size: 1em;
 	color: #420600;
 	text-align: center;
+	background: #5693AB;
+	border: 2px solid #24C4DA;
 }
 
 .product-details {
@@ -148,3 +151,13 @@ h4 {
 	text-align: center;
 	border: 2px solid #24C4DA;
 }
+
+#problem {
+	padding: 30px;
+	background: #000;
+	text-align: center;
+	border: 2px solid #24C4DA;
+}
+
+
+
