@@ -3104,7 +3104,7 @@ input[type="submit"].btn.btn-mini {
 .nav > li > a:hover,
 .nav > li > a:focus {
   text-decoration: none;
-  background-color: #eeeeee;
+  
 
 }
 .nav > li > a > img {
@@ -3483,7 +3483,7 @@ input[type="submit"].btn.btn-mini {
   padding: 10px 20px 10px;
   margin-left: -20px;
   font-size: 30px;
-  font-weight: 200;
+  font-weight: 250;
   color: #FFFFFF;
   
 }

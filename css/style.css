@@ -19,6 +19,8 @@ body {
         max-width: 900px;
       }
 
+
+
 h1{
 	font-size: 2em;
 }
@@ -159,5 +161,11 @@ h4 {
 	border: 2px solid #24C4DA;
 }
 
+.man {
+	text-align: right;
+	position: absolute;
+	right: 830px;
+
+}
 
 
