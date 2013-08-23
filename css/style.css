@@ -19,7 +19,14 @@ body {
         max-width: 900px;
       }
 
+#product-image  img {
+	box-sizing: border-box;
+	border: 8px solid #24C4DA;
+	padding: 2px;
+	margin: 0 0 5% 0;
+	
 
+}
 
 h1{
 	font-size: 2em;
