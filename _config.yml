@@ -9,7 +9,7 @@ auto: true
 
 
 name: mkcomco
-url: http://www.mkcomputerservice.com
+url: http://mkcomco.github.io
 description: Jekyll blog is ninja
 github: mkcomco
 
