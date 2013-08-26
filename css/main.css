@@ -12,6 +12,7 @@
 
 html, body { height: 100%; }
 
+<<<<<<< HEAD
 body {
   background-color: #FFF;
   font: 13.34px Helvetica, Arial, sans-serif;
@@ -28,6 +29,17 @@ p { margin: 1em 0; }
 a         { color: #00a; }
 a:hover   { color: #000; }
 a:visited { color: #a0a; }
+=======
+
+
+
+
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+>>>>>>> 6ab079e65076c5c0e84a58e93d0beb1a0c66dbad
 
 /*****************************************************************************/
 /*
