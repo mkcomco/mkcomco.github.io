@@ -1,0 +1,178 @@
+
+html {
+	height: 100%;
+}
+
+body {
+	background: url('/images/light_blue.jpg') repeat;
+	
+}
+.container {
+
+  width: 1000px;  
+  padding-top: 20px;
+  margin: 0 auto;
+}
+
+.container-narrow {
+        margin: 0 auto;
+        max-width: 900px;
+      }
+
+#product-image  img {
+	box-sizing: border-box;
+	border: 8px solid #24C4DA;
+	padding: 2px;
+	margin: 0 0 5% 0;
+	
+
+}
+
+h1{
+	font-size: 2em;
+}
+#computer-pictures {
+	background: #FFFFFF;
+	border: 1px solid #24C4DA;
+	position: relative;
+	animation:bounce 5s infinite;
+	-webkit-animation:bounce 5s infinite; /* Safari and Chorme*/
+}
+@-webkit-keyframes bounce {
+0%, 20%, 50%, 80%, 100% {-webkit-transform: translateY(0);}
+40% {-webkit-transform: translateY(-30px);}
+60% {-webkit-transform: translateY(-15px);}
+}
+
+@-moz-keyframes bounce {
+0%, 20%, 50%, 80%, 100% {-moz-transform: translateY(0);}
+40% {-moz-transform: translateY(-30px);}
+60% {-moz-transform: translateY(-15px);}
+}
+
+@-o-keyframes bounce {
+0%, 20%, 50%, 80%, 100% {-o-transform: translateY(0);}
+40% {-o-transform: translateY(-30px);}
+60% {-o-transform: translateY(-15px);}
+}
+@keyframes bounce {
+0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+40% {transform: translateY(-30px);}
+60% {transform: translateY(-15px);}
+}
+
+.bounce {
+-webkit-animation-name: bounce;
+-moz-animation-name: bounce;
+-o-animation-name: bounce;
+animation-name: bounce;
+}
+
+
+
+
+#intro {
+	padding: 2em;
+	background: #FFFFFF;
+	border: 1px solid #24C4DA;
+	
+	text-align: left;
+}
+
+#maintenance {
+	font-size: 25px;
+
+
+}
+
+h3  {
+	color: #E84E16;
+}
+
+
+
+h2  {
+	color: #E84E16;
+}
+
+.phone {
+	font-size: 1em;
+}
+
+
+
+#quality-service {
+	text-align: center;
+}
+
+
+.footer{
+	font-size: 0.750em;
+	text-align: right;
+}
+
+#contact{
+	padding: 30px;
+	font-size: 1em;
+	color: #420600;
+	text-align: center;
+	background: #5693AB;
+	border: 2px solid #24C4DA;
+}
+
+.product-details {
+	padding: 2em;
+	font-size: 1em;
+	text-align: left;
+	background: #FFFFFF;
+	
+	border: 2px solid #24C4DA;
+}
+
+#parts {
+	background-color: #FFFFFF;
+	
+	text-align: left;
+	padding: 1.500em;
+	border: 2px solid #24C4DA;
+	
+}
+
+
+
+#product-logo {
+	background-color: #FFFFFF;
+	border: 2px solid #24C4DA;
+	text-align: center;
+}
+
+h4 {
+	color: #24C4DA;
+}
+
+#service-picture {
+	background-color: #FFFFFF;
+	border: 2px solid #24C4DA;
+}
+
+#contact-form {
+	background: #FFFFFF;
+	text-align: center;
+	border: 2px solid #24C4DA;
+}
+
+#problem {
+	padding: 30px;
+	background: #000;
+	text-align: center;
+	border: 2px solid #24C4DA;
+}
+
+.man {
+	text-align: right;
+	position: absolute;
+	right: 830px;
+
+}
+
+
