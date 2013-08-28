@@ -19,6 +19,17 @@ body {
         max-width: 900px;
       }
 
+ 
+.web-services {
+  background-color: #bfd1e4;
+  border: 10px solid #2563a5;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  padding: 10px;
+
+}
+
+
 #product-image  img {
 	box-sizing: border-box;
 	border: 8px solid #24C4DA;
@@ -72,11 +83,11 @@ animation-name: bounce;
 
 
 #intro {
-	padding: 2em;
-	background: #FFFFFF;
-	border: 1px solid #24C4DA;
-	
+	padding: 2em;	
 	text-align: left;
+
+	
+	
 }
 
 #maintenance {
@@ -101,7 +112,9 @@ h2  {
 
 
 
-#quality-service {
+#quality-service  {
+	
+	padding: 2px;
 	text-align: center;
 }
 
@@ -124,18 +137,12 @@ h2  {
 	padding: 2em;
 	font-size: 1em;
 	text-align: left;
-	background: #FFFFFF;
-	
-	border: 2px solid #24C4DA;
 }
+	
 
 #parts {
-	background-color: #FFFFFF;
-	
 	text-align: left;
 	padding: 1.500em;
-	border: 2px solid #24C4DA;
-	
 }
 
 
@@ -156,7 +163,7 @@ h4 {
 }
 
 #contact-form {
-	background: #FFFFFF;
+	
 	text-align: center;
 	border: 2px solid #24C4DA;
 }
@@ -168,11 +175,6 @@ h4 {
 	border: 2px solid #24C4DA;
 }
 
-.man {
-	text-align: right;
-	position: absolute;
-	right: 830px;
 
-}
 
 
