@@ -60,6 +60,9 @@ title: M.K. Computer Services
 
 
 	<div class="container-narrow">
+    <div class="web-services">
+	<marquee><h1>ONE STOP COMPUTER SHOP. BEST-IN-CLASS SERVICES.</h1></marquee>
+
 	<div id="intro">
   <br>
 	<p><b>M.K. Computers Services </b> is one of the fastest growing computer companies in Mumbai – Mulund. We have an extensive experience of over the years in this business.</p> 
@@ -69,11 +72,14 @@ We also provide excellent technical & maintenance support in repairing or 
 <p><b>It is one stop computer shop.</b></p>
 
 <p>We cater to the small and medium sized companies and also the residential (home) customers in the best possible way for all their computer requirements and at affordable costs i.e. we offer cost effective solutions at reasonable prices.</p>
-            <div id="quality-service">
-                  <h2><img src= "/images/ribbon.jpg" alt="ribbon" ></h2>
+            
+  </div>
+
+<div id="quality-service">
+                  <h2><img src= "/images/ribbonnew.jpg" alt="ribbon" ></h2>
              
             </div>
-  </div>
+          </div>
 	</div>
 
   <br>
