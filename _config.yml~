@@ -1,0 +1,15 @@
+name: M.K. Computer Services
+markdown: redcarpet
+pygments: true
+permalink: /product/:title
+permalink: /services/:title
+permalink: /about/:title
+permalink: /contact/:title
+auto: true
+
+
+name: mkcomco
+url: http://mkcomputerservice.com
+description: Jekyll blog is ninja
+github: mkcomco
+
